@@ -791,6 +791,14 @@ footer .social-links a:hover {
     color: white;
     font-size: .7rem;
   }
+
+  .contract-container span {
+    text-align: center;
+    margin-top: 0.rem; 
+    padding: 0.1rem; 
+    color: white;
+    font-size: .5rem;
+  }
   
   .contract-container img {
     background-color: #9CB7DB;
